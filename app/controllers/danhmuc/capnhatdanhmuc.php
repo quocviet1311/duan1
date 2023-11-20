@@ -4,7 +4,7 @@ if(is_array($dm)){
 }
 ?>
 <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-  <div class="card card-primary w-100">
+  <div class="card card-primary w-100"  style="height: 585px;">
     <div class="card-header">
       <h3 class="card-title">Cập nhật danh mục</h3>
     </div>
